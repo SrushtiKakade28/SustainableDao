@@ -1,0 +1,18 @@
+{
+  "files": {
+    "scripts/2-deploy-drop.js": [
+      {
+        "id": "5c4e44a5-6abc-4e5a-a95a-94c0a966063c",
+        "line": 13,
+        "version": 254,
+        "index": 412
+      },
+      {
+        "id": "261a16b4-7316-4a7c-b18a-9530470f8046",
+        "line": 16,
+        "version": 254,
+        "index": 608
+      }
+    ]
+  }
+}
